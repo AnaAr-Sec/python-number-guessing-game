@@ -45,3 +45,45 @@ The program generates a random number between 1 and 100, and the user has 8 atte
 
 ```bash
 python guessing_game.py
+```
+---
+
+## 📌 Example
+
+
+===== Adivina un número =====
+
+¿Cuál es tu nombre?: Dafne
+Dafne, tienes solo 8 intentos para adivinarlo!
+
+Intento 1 - ¿Cuál es el número?: 50
+Incorrecto, este número es mayor...
+
+Intento 2 - ¿Cuál es el número?: 75
+Incorrecto, este número es menor...
+
+Intento 3 - ¿Cuál es el número?: 63
+Ganaste! 🎉
+
+---
+## 💡 Future improvements
+
+- Add difficulty levels
+- Add score system
+- Convert to GUI (Tkinter)
+- Store results
+
+## 🔐 Security perspective
+
+This project highlights:
+
+- Input validation to prevent invalid data
+- Error handling using try/except
+- Controlled user interaction
+
+These are fundamental concepts also used in cybersecurity.
+
+## 👩‍💻 Author
+
+Ana Alicia Arroyo  
+Entry-Level Cybersecurity | Python | GRC
